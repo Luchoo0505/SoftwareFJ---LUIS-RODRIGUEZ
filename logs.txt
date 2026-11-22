@@ -1,0 +1,9 @@
+2026-11-22 12:17:06.182890 - Inicio del sistema Software FJ
+2026-11-22 12:17:06.183383 - Clientes 1 y 2 registrados
+2026-11-22 12:17:06.183770 - Error controlado cliente invalido: El nombre debe tener minimo 3 caracteres
+2026-11-22 12:17:06.184219 - 3 servicios creados
+2026-11-22 12:17:06.184816 - Reserva 1001 exitosa
+2026-11-22 12:17:06.185195 - Error controlado servicio no disponible: Servicio Alquiler Portatil no disponible
+2026-11-22 12:17:06.185638 - Metodos sobrecargados probados
+2026-11-22 12:17:06.185929 - Reserva 1001 cancelada
+2026-11-22 12:17:06.186447 - Fin del sistema - 10 operaciones completadas
