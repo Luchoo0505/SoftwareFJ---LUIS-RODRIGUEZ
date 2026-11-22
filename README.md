@@ -20,3 +20,11 @@ Permite agregar clientes, agregar servicios, crear reservas, cancelar reservas y
 ## Archivos
 - SoftwareFJ.py -> Código fuente
 - logs.txt -> Registro de operaciones
+
+## 📸 Evidencias
+
+### 1. Ejecución
+![Ejecucion](evidencia-ejecucion.png)
+
+### 2. Log
+![Log](evidencia-log.png)
